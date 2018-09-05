@@ -1,8 +1,9 @@
 {
   "main.css": "static/css/main.bda73950.css",
   "main.css.map": "static/css/main.bda73950.css.map",
-  "main.js": "static/js/main.994ed86d.js",
-  "main.js.map": "static/js/main.994ed86d.js.map",
+  "main.js": "static/js/main.02d5686a.js",
+  "main.js.map": "static/js/main.02d5686a.js.map",
+  "static/media/birthday_350.jpg": "static/media/birthday_350.f6f9b989.jpg",
   "static/media/cd-icon-arrow.svg": "static/media/cd-icon-arrow.c0282874.svg",
   "static/media/cd-icon-budget.svg": "static/media/cd-icon-budget.a53790f7.svg",
   "static/media/cd-icon-check.svg": "static/media/cd-icon-check.6fdbfd94.svg",
@@ -18,7 +19,11 @@
   "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
   "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/library_350.jpg": "static/media/library_350.d83d7820.jpg",
   "static/media/logo.png": "static/media/logo.fbfdb46e.png",
   "static/media/logo_eng.png": "static/media/logo_eng.afa857d5.png",
-  "static/media/tour-icon2.png": "static/media/tour-icon2.aa7c20fb.png"
+  "static/media/qrcode_1.png": "static/media/qrcode_1.8fdde7f5.png",
+  "static/media/soundgame_350.jpg": "static/media/soundgame_350.71aae92d.jpg",
+  "static/media/tour-icon2.png": "static/media/tour-icon2.aa7c20fb.png",
+  "static/media/walletscontract_350.jpg": "static/media/walletscontract_350.6ee70f06.jpg"
 }
